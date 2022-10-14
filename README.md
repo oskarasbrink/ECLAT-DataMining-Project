@@ -10,9 +10,9 @@ The unzipped data should be in the top directory
 
 
 Requirements:
-Numpy
-itertools
-pandas
-apyriori
-pyECLAT
-pyfpgrowth
+- Numpy
+- itertools
+- pandas
+- apyriori
+- pyECLAT
+- pyfpgrowth
